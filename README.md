@@ -26,3 +26,11 @@ Function code <claim> done
             owner: bid.bidder,
             amount: bid.amount,
         };
+
+
+Owner signature
+sign1l85u24j30x7yel95yqlmphdh9tf57ax29arux9yxtvjyp2ysgyq59zqydla9egh6csmmj720v69j0cl8w2d2z0jyr5jvw5k3dlvcxq0zqq6937e53f2zrzwjgp2vehuqmmnlknwd6ggep24mckg28gyrppsyc3yz3mpcwykz3famej0t6s8ku98a5n20tawlj53tsdh24xusvelexcv
+
+
+<img width="1324" alt="imagen" src="https://github.com/user-attachments/assets/d17d5299-8f99-4b5e-a57a-44d63d2d7001">
+
